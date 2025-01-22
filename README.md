@@ -2,7 +2,7 @@
 FreeBSD Port of BasiliskII
 
 ## Synopsys 
-Originally I wanted to see if i could resurect the FreeBSD Port of BasiliskII from FreeBSD 8.2 .
+Originally I wanted to see if i could resurrect the FreeBSD Port of BasiliskII from FreeBSD 8.2 .
 In hunting around for other gits on how to build and run it , I ran into this one https://github.com/ekbann/rpi-basilisk2-sdl2-nox .
 
 Using the version noted in this git I was able to build BasiliskII via this port. 
